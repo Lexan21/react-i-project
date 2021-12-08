@@ -171,7 +171,7 @@ body {
 .other-recipes-box {
     width: 1102px;
     height: 400px;
-    background-image: url('/images/back-g-home_recipes2.jpg');
+    /* background-image: url('/images/back-g-home_recipes2.jpg'); */
     border-radius: 10px;
 }
 
